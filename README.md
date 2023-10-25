@@ -6,7 +6,7 @@
 # <div align="center">I'm Kaung Myat Thu, MERN Stack Developer  👨‍💻  🚀</div>  
   
 
-- 🔭 I’m currently working on [Sprite Lighting Technology Co,.LTd]🏢🏫  
+- 🔭 I’m currently working on [Sprite Lightning Technology Co,.LTd]🏢🏫  
   
 
 - 🌱 I’m currently learning React,Next.js and Node.js🧑‍💻  
@@ -79,7 +79,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/kaungmyatthu69" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="_blank">
