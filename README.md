@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">I'm Kaung Myat Thu, MERN Stack Developer  👨‍💻  🚀</div>  
+# <div align="center">I'm Kaung Myat Thu,Web Developer  👨‍💻  🚀</div>  
   
 
 - 🔭 I’m currently working on [Sprite Lightning Technology Co,.LTd]🏢🏫  
